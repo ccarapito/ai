@@ -1,0 +1,5 @@
+.venv
+
+**/checkpoint_models/*
+
+**/*fine_tuned_model/*
